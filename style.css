@@ -1,0 +1,29 @@
+body {
+	background-image: url(bg1.jpg);
+	background-position: center;
+	backgrounf-repeat: no-repeat;
+}
+h2 {
+	font-family: arial;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 10px;
+	font-variant: small-caps;
+	color: brown;
+}
+p {
+	font-family: arial;
+	font-size: 25px;
+	color: grey;
+}
+p {
+	font-family: arial;
+	font-size: 25px;
+	color: white;
+}
+table {
+	font-family: arial;
+	font-weight: normal;
+	line-height: 10px;
+	font-variant: small-caps;
+}
